@@ -1,8 +1,8 @@
 <h1  align="center" style="font-size: 3em;">
   Crafting the Web of Tomorrow, One Pixel at a Time
 </h1>
-
-<h1 align="center">Hi 👋, I'm Dheeraj Saraswat</h1>
+  <img width=100% src="banner-profile.png" alt="Banner" />
+<h1 align="center">Hey there <sub><img width="55px" src="https://i.imgur.com/dsEcTpo.gif" alt="hand"/></sub>, I'm Dheeraj Saraswat
 <h2 align="center">A passionate frontend developer from India</h2>
 <h4 align="left">
 I'm a Computer Science graduate with a strong foundation in core CS subjects like Data Structures, Algorithms, Operating Systems, and Computer Networks.  
@@ -18,7 +18,11 @@ Currently advancing my skills in React and modern front-end workflows while also
 - 💬 Ask me about **Front-end Development, UI/UX, Computer Science**
 
 - 📫 How to reach me **dheerajsaraswat03@gmail.com**
+- ⚡ Fun fact: When I’m not coding, I love exploring Human Psychology and the mysteries of Consciousness.
 
+<br/>
+  <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dheeraj3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dheeraj3/" height="30" width="40" /></a>
@@ -36,3 +40,6 @@ Currently advancing my skills in React and modern front-end workflows while also
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-18&show_icons=true&locale=en" alt="dheeraj-18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-18&" alt="dheeraj-18" /></p>
+<br/>
+<img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
+<br/>
