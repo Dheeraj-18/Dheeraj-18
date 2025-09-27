@@ -4,11 +4,11 @@
   <img width=100% src="banner-profile.png" alt="Banner" />
 <h1 align="center">Hey there <sub><img width="55px" src="https://i.imgur.com/dsEcTpo.gif" alt="hand"/></sub>, I'm Dheeraj Saraswat
 <h2 align="center">A passionate frontend developer from India</h2>
-<h4 align="left">
+<h3 align="left">
 I'm a Computer Science graduate with a strong foundation in core CS subjects like Data Structures, Algorithms, Operating Systems, and Computer Networks.  
 Passionate about building responsive, accessible, and user-friendly interfaces, I focus on turning ideas into smooth and performant digital experiences.  
 Currently advancing my skills in React and modern front-end workflows while also exploring web performance, accessibility (a11y), and UI/UX design.  
-</h4>
+</h3>
 
 <br>
 
