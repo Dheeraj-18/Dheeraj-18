@@ -9,7 +9,8 @@ I'm a Computer Science graduate with a strong foundation in core CS subjects lik
 Passionate about building responsive, accessible, and user-friendly interfaces, I focus on turning ideas into smooth and performant digital experiences.  
 Currently advancing my skills in React and modern front-end workflows while also exploring web performance, accessibility (a11y), and UI/UX design.  
 </h4>
-<img src = "https://camo.githubusercontent.com/5b75cf8f9c741a2a21db17d5df8216b9392e6a443399f03d864720215e2b5c6f/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4643544a56327534455471746b76466e30493166593138345562647057687170417979563677373733326f6f6b68466e6241465f674261574d4e66417732387a5f476856655a6d514959376a625575446c46456a575776366c644c65374676724a67343d77393332"/> 
+
+<br>
 
 - 🔭 I’m currently working on **React Projects**
 
@@ -19,6 +20,10 @@ Currently advancing my skills in React and modern front-end workflows while also
 
 - 📫 How to reach me **dheerajsaraswat03@gmail.com**
 - ⚡ Fun fact: When I’m not coding, I love exploring Human Psychology and the mysteries of Consciousness.
+
+<br>
+
+<img src = "https://camo.githubusercontent.com/5b75cf8f9c741a2a21db17d5df8216b9392e6a443399f03d864720215e2b5c6f/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4643544a56327534455471746b76466e30493166593138345562647057687170417979563677373733326f6f6b68466e6241465f674261574d4e66417732387a5f476856655a6d514959376a625575446c46456a575776366c644c65374676724a67343d77393332" align="center"/> 
 
 <br/>
   <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
