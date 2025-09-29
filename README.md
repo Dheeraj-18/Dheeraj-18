@@ -30,7 +30,7 @@ Currently advancing my skills in React and modern front-end workflows while also
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dheeraj3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dheeraj3/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dheeraj3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dheeraj3/" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/destroyer_18" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CodeChef_Logo.svg/1200px-CodeChef_Logo.svg.png" alt="destroyer_18" height="90" width="90" /></a>
 <a href="https://www.hackerrank.com/dheeraj_saraswa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dheeraj_saraswa1" height="30" width="40" /></a>
 </p>
