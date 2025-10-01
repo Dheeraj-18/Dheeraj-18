@@ -1,4 +1,4 @@
-<h1  align="center" style="font-size: 3em;">
+<h1  align="center" style="font-size: 4em;">
   Crafting the Web of Tomorrow, One Pixel at a Time
 </h1>
   <img width=100% src="banner-profile.png" alt="Banner" />
