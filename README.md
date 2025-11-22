@@ -13,11 +13,10 @@
 
   <!-- Bio Section -->
   <p align="center" style="width: 80%;">
-    I am a <b>Computer Science graduate</b> with a deep interest in the mechanics of the web.  
-    I specialize in building <b>responsive, accessible, and performant</b> user interfaces using React ecosystem.  
-    My goal is to bridge the gap between engineering and design to create meaningful digital experiences.
+    I’m a <b>Computer Science graduate</b> and a <b>Frontend Developer</b> focused on building fast, accessible and visually rich digital experiences.  
+    I enjoy connecting engineering with design — crafting interfaces that feel smooth, intuitive and meaningful.  
+    My core expertise lies in the <b>React ecosystem</b>, performance optimization, reusable component architecture and modern frontend engineering practices.
   </p>
-
   <br/>
 
   <!-- Social Links (Updated to 'for-the-badge' for a solid button look) -->
