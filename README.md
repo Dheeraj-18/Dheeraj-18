@@ -1,53 +1,77 @@
-<h1  align="center" style="font-size: 4em;">
-  Crafting the Web of Tomorrow, One Pixel at a Time
-</h1>
-  <img width=100% src="banner-profile.png" alt="Banner" />
-<h1 align="center">Hey there <sub><img width="55px" src="https://i.imgur.com/dsEcTpo.gif" alt="hand"/></sub>, I'm Dheeraj Saraswat
-<h2 align="center">A passionate frontend developer from India</h2>
-<h3 align="left">
-I'm a Computer Science graduate with a strong foundation in core CS subjects like Data Structures, Algorithms, Operating Systems, and Computer Networks.  
-Passionate about building responsive, accessible, and user-friendly interfaces, I focus on turning ideas into smooth and performant digital experiences.  
-Currently advancing my skills in React and modern front-end workflows while also exploring web performance, accessibility (a11y), and UI/UX design.  
-</h3>
+<!-- Banner Image -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=250&section=header&text=Dheeraj%20Saraswat&fontSize=70&fontAlign=50&fontAlignY=35&desc=Crafting%20the%20Web%20of%20Tomorrow,%20One%20Pixel%20at%20a%20Time&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="Dheeraj Saraswat Banner" />
+  
+  <br/>
+  <br/>
 
-<br>
+  <!-- Intro & Title -->
+  <h1>
+    Hi there <sub><img width="40px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave hand"/></sub>, I'm Dheeraj Saraswat
+  </h1>
+  <h3 align="center">Frontend Web Developer | CS Graduate</h3>
 
-- 🔭 I’m currently working on **React Projects**
+  <!-- Bio Section -->
+  <p align="center" style="width: 80%;">
+    I am a <b>Computer Science graduate</b> with a deep interest in the mechanics of the web.  
+    I specialize in building <b>responsive, accessible, and performant</b> user interfaces using React ecosystem.  
+    My goal is to bridge the gap between engineering and design to create meaningful digital experiences.
+  </p>
 
-- 🌱 I’m currently learning **React.js and web Optimization**
+  <br/>
 
-- 💬 Ask me about **Front-end Development, UI/UX, Computer Science**
-
-- 📫 How to reach me **dheerajsaraswat03@gmail.com**
-- ⚡ Fun fact: When I’m not coding, I love exploring Human Psychology and the mysteries of Consciousness.
-
-<br>
-
-<img src = "https://camo.githubusercontent.com/5b75cf8f9c741a2a21db17d5df8216b9392e6a443399f03d864720215e2b5c6f/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4643544a56327534455471746b76466e30493166593138345562647057687170417979563677373733326f6f6b68466e6241465f674261574d4e66417732387a5f476856655a6d514959376a625575446c46456a575776366c644c65374676724a67343d77393332" align="center"/> 
+  <!-- Social Links (Updated to 'for-the-badge' for a solid button look) -->
+  <a href="https://www.linkedin.com/in/dheeraj3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dheerajsaraswat03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.codechef.com/users/destroyer_18" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+  <a href="https://www.hackerrank.com/dheeraj_saraswa1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</div>
 
 <br/>
-  <img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dheeraj3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dheeraj3/" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/destroyer_18" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CodeChef_Logo.svg/1200px-CodeChef_Logo.svg.png" alt="destroyer_18" height="90" width="90" /></a>
-<a href="https://www.hackerrank.com/dheeraj_saraswa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dheeraj_saraswa1" height="30" width="40" /></a>
-</p>
-<a href="https://monkeytype.com/profile/dheeraj_03" target="blank"><img align="center" src="https://kbd.news/pic/2023/123/2019.jpg" alt="https://monkeytype.com/profile/dheeraj_03" height="40" width="60" /></a>
+<hr/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<a href="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="npm" width="50" height="50"/> </a>
-<a href="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png" target="_blank" rel="noreferrer"> <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png" alt="react-router" width="50" height="50"/> </a>
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" alt="vite" width="50" height="50"/> </a>
-</p>
+<!-- About Me Details -->
+### 🧐 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj-18&show_icons=true&locale=en&layout=compact" alt="dheeraj-18" /></p>
+- 🔭 I’m currently working on **Advanced React Patterns & Performance Optimization**.
+- 🌱 I’m currently learning **Next.js and Modern Web Accessibility (a11y)**.
+- 💬 Ask me about **Frontend Architecture, React Hooks, and UI Design**.
+- ⚡ **Fun fact:** When I’m not coding, I dive deep into **Human Psychology** and the mysteries of Consciousness.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheeraj-18&show_icons=true&locale=en" alt="dheeraj-18" /></p>
-``  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-18&" alt="dheeraj-18" /></p>
 <br/>
-<img src="https://i.imgur.com/GlOOEz8.gif" alt="flashing horizontal"/>
+
+<!-- Tech Stack Section -->
+### 🛠️ Languages & Tools
+<div align="center">
+  <!-- This uses the Modern SkillIcons style -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,c,cpp,git,vite,npm,figma&perline=6" alt="Skills" />
+</div>
+
 <br/>
+<br/>
+
+<!-- GitHub Stats Section (Side by Side - LIGHT MODE) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dheeraj-18&show_icons=true&locale=en&theme=default&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dheeraj-18&show_icons=true&locale=en&layout=compact&theme=default&hide_border=true" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-18&theme=default&hide_border=true" alt="streak stats" />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <i>Let's connect and build something amazing!</i>
+</div>
