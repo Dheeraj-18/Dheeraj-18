@@ -44,7 +44,7 @@
 - 🔭 I’m currently working on **Advanced React Patterns & Performance Optimization**.
 - 🌱 I’m currently learning **Next.js and Modern Web Accessibility (a11y)**.
 - 💬 Ask me about **Frontend Architecture, React Hooks, and UI Design**.
-- ⚡ **Fun fact:** When I’m not coding, I dive deep into **Human Psychology** and the mysteries of Consciousness.
+- ⚡ **Fun fact :** I love debugging so much that I treat every bug like a mini puzzle.
 
 <br/>
 
