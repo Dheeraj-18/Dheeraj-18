@@ -9,7 +9,7 @@
   <h1>
     Hi there <sub><img width="40px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave hand"/></sub>, I'm Dheeraj Saraswat
   </h1>
-  <h3 align="center">Frontend Web Developer | CS Graduate</h3>
+  <h3 align="center">Frontend Web Developer </h3>
 
   <!-- Bio Section -->
   <p align="center" style="width: 80%;">
