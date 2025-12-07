@@ -55,8 +55,8 @@
 <!-- Tech Stack Section -->
 ### 🛠️ Languages & Tools
 <div align="center">
-  <!-- This uses the Modern SkillIcons style -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,c,cpp,git,vite,npm,figma&perline=6" alt="Skills" />
+  <!-- Added ts, nextjs, and redux to the list -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,c,cpp,git,vite,npm,figma&perline=6" alt="Skills" />
 </div>
 
 <br/>
@@ -72,7 +72,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-18&theme=default&hide_border=true" alt="streak stats" />
 </div>
-
 <br/>
 <br/>
 
