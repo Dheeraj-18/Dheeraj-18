@@ -19,19 +19,33 @@
   </p>
   <br/>
 
-  <!-- Social Links (Updated to 'for-the-badge' for a solid button look) -->
+<div align="center">
+
+  <!-- Portfolio -->
+  <a href="https://dheerajsaraswat.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dheeraj3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
+  <!-- Twitter -->
+  <a href="https://x.com/Dheeraj_A03" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
   <!-- Email -->
   <a href="mailto:dheerajsaraswat03@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+
   <!-- CodeChef -->
   <a href="https://www.codechef.com/users/destroyer_18" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/dheeraj_saraswa1" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/>
