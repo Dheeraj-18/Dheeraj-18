@@ -1,10 +1,5 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=250&section=header&text=Dheeraj%20Saraswat&fontSize=70&fontAlign=50&fontAlignY=35&desc=Crafting%20the%20Web%20of%20Tomorrow,%20One%20Pixel%20at%20a%20Time&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" alt="Dheeraj Saraswat Banner" />
-  
-  <br/>
-  <br/>
-
   <!-- Intro & Title -->
   <h1>
     Hi there <sub><img width="40px" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave hand"/></sub>, I'm Dheeraj Saraswat
